@@ -14,4 +14,4 @@
     4、我的: 优惠券数量、积分数量、我的订单(等待取货、已取货、已取消)、我的收藏、设置等。
 
   任何意见建议, 请联系我们: 
-  "Chess-develop your brain"官方邮箱: 
+  "Chess-develop your brain"官方邮箱: can01675zhizhi@126.com
